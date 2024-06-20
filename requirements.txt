@@ -1,6 +1,5 @@
 streamlit
 numpy
-pickle
 pandas 
 matplotlib
 seaborn
